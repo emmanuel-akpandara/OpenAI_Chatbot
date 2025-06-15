@@ -1,0 +1,47 @@
+# Node (Next.js frontend)
+node_modules/
+.next/
+out/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Python (FastAPI backend)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+.venv/
+.env
+*.env
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Coverage and testing
+htmlcov/
+coverage.xml
+*.cover
+.pytest_cache/
+.cache/
+
+# Build
+dist/
+build/
+
+# Misc
+*.sqlite3
+*.db
