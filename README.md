@@ -1,6 +1,6 @@
 #  Conversational AI Chatbot
 
-This is a simple full-stack **AI chatbot** project that uses OpenAI's GPT model to generate human-like responses in real-time. Built using **Next.js (React)** for the frontend and **FastAPI** for the backend to demnostrate how ai is integrated.
+This is a simple full-stack **AI chatbot** project that uses OpenAI's GPT model to generate human-like responses in real-time. It is Built using **Next.js (React)** for the frontend and **FastAPI** for the backend to demnostrate how ai is integrated.
 
 ---
 
