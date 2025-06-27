@@ -26,7 +26,7 @@ The goal of this project was to learn how to:
 ### Frontend:
 - React with **Next.js App Router**
 - Fetch API
-- Basic CSS styling (or Tailwind CSS if desired)
+
 
 ### Backend:
 - **FastAPI**
